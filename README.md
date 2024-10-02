@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://webdevpawan.netlify.app](https://webdevpawan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://pawanbhayde.vercel.app/](https://pawanbhayde.vercel.app/)
 
 - 📝 I regularly write articles on [https://pawanbhayde.hashnode.dev/](https://pawanbhayde.hashnode.dev/)
 
